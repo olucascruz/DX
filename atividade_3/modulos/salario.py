@@ -1,7 +1,7 @@
 import time
 from .calculadora import Calculadora
 
-class Salary():
+class Salary_controller():
 
     def __init__(self, salary, hours):
 
@@ -12,6 +12,10 @@ class Salary():
     def salary_increase(self, porcent):
         porcent_increase = self.salary/100 * porcent
         self.salary += porcent_increase
+
+    def salary_desconted(self, porcent):
+        porcent_decrease = self.salary/100 * porcent
+        return self.get_payment() - porcent_decrease
 
     def get_payment_dollar(self):
         DOLLAR = 4.81
