@@ -6,7 +6,7 @@ import sys
 sys.path.append("/home/usuario/Desktop/os_codigos")
 
 from atividade_3.modulos.IMC import calc_IMC, classifica_IMC
-from atividade_3.modulos.salario import Salary
+from atividade_3.modulos.salario import Salary_controller
 
 
 from datetime import datetime as dt
@@ -44,7 +44,7 @@ class Person:
 class Worker(Person):
     def __init__(self, name, birth_date, height, weight, salary, hours_working):
         super().__init__(name, birth_date, height, weight)
-        self.Object_salary = Salary(salary=salary, hours=hours_working)
+        self.Object_salary = Salary_controller(salary=salary, hours=hours_working)
         self.hours_studied = 0
         self.hours_worked = 0
 
@@ -57,7 +57,12 @@ class Worker(Person):
 
 
 
-Lucas = Worker("Lucas", "2002-05-05", 1.72, 91, 25, 40)
+Lucas = Worker("Lucas", "2002-11-05", 1.72, 91, 25, 40)
 
 payment = Lucas.Object_salary.get_payment()
 print(payment)
+
+Lucas.Object_salary.salary_increase(50)
+
+print(Lucas.Object_salary.get_payment())
+print(Lucas.get_age())
