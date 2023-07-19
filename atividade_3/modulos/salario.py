@@ -1,61 +1,27 @@
 import time
 from .calculadora import Calculadora
 
+class Salary():
 
-def salario():
-    DOLAR = 4.84
-    EURO = 5.43
+    def __init__(self, salary, hours):
 
-    calc = Calculadora()
-    salario = input("Digite o salário: ")
+        self.Calc = Calculadora()
+        self.salary = salary
+        self.hours = hours
     
-    while True:
-        print("-----------------------------------------")
-        print(f"O salario atual é {salario}")
-        print("-----------------------------------------")
-        print("carregando...")
-        time.sleep(2)
+    def salary_increase(self, porcent):
+        porcent_increase = self.salary/100 * porcent
+        self.salary += porcent_increase
 
-        print("Deseja adicionar um bonus ao salário? - Digite 1")
-        print("Deseja descontar um valor do salário? - Digite 2")
-        print("Deseja adicionar um novo valor ao salário? - Digite 3")
-        print("Ver sário convertido em Dolar, euro e real - Digite 4")
-        print("Deseja finalizar operação? - Digite 5")
-
+    def get_payment_dollar(self):
+        DOLLAR = 4.81
+        return self.get_payment() / DOLLAR
+    
+    def get_payment_euro(self):
+        EURO = 5,39 
+        return self.get_payment() / EURO
 
 
-        print()
-
-        operacao = input("Digite -> ")
-        
-        if(operacao == "1"):
-            bonus = input("Digite o bonus: ")
-            salario = calc.soma(salario, bonus)
-        
-        elif operacao == "2":
-            bonus = input("Digite o bonus: ")
-            salario = calc.subtracao(salario, bonus)    
-        
-        elif operacao == "3":
-            salario = input("Digite o salário")
-        
-        elif operacao == "4":
-            print("-----------------------------------------")
-            print(f"O salario atual em reais é {salario}")
-            print(f"O salario atual em dolares é {float(salario) // DOLAR}")
-            print(f"O salario atual em euros é {float(salario) // EURO}")
-            print("-----------------------------------------")
-        
-        elif operacao == "5":
-            print("-----------------------------------------")
-            print(f"O salario atual é {salario}")
-            print("-----------------------------------------")
-            print("OPERAÇÃO FINALIZADA")
-
-            return salario
-        else:
-            print("Operação não existe")
-            print()
-            print("Aguarde")
-
-            time.sleep(2)
+    def get_payment(self):
+       return self.salary*self.hours
+    

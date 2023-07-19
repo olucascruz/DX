@@ -21,3 +21,5 @@ def ordenacao(lista:list, algoritmo="Bubble"):
         lista.sort()
         return lista
 
+        
+

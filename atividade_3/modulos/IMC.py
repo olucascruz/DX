@@ -1,5 +1,6 @@
 from .calculadora import Calculadora
 
+
 def calc_IMC(altura, peso):
     calc = Calculadora()
     imc = calc.divisao(peso, calc.multiplicacao(altura, altura))
