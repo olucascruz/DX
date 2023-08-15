@@ -1,0 +1,784 @@
+1692048152002	geckodriver	INFO	Listening on 127.0.0.1:61330
+1692048155257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileIuo9eg"
+1692048332743	geckodriver	INFO	Listening on 127.0.0.1:61385
+1692048335849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileTFSFCq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692048336822	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692048337207	Marionette	INFO	Listening on port 61395
+Read port: 61395
+1692048337609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692048349830	Marionette	INFO	Stopped listening on port 61395
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1692049298840	geckodriver	INFO	Listening on 127.0.0.1:61974
+1692049301874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilejJSe0H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692049302347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692049303076	Marionette	INFO	Listening on port 61986
+Read port: 61986
+1692049303355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692049389546	Marionette	INFO	Stopped listening on port 61986
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileONsarc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692049376526	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692049376628	Marionette	INFO	Listening on port 62092
+Read port: 62092
+1692049377774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1692049387197	Marionette	INFO	Stopped listening on port 62092
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692049400869	geckodriver	INFO	Listening on 127.0.0.1:62115
+1692049403887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileNxubWX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692049404523	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692049405024	Marionette	INFO	Listening on port 62126
+Read port: 62126
+1692049406157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+1692049449063	Marionette	INFO	Stopped listening on port 62126
+Dynamically enable window occlusion 1
+1692049918195	geckodriver	INFO	Listening on 127.0.0.1:62498
+1692049921253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilemkPQVz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692049921724	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692049921823	Marionette	INFO	Listening on port 62509
+Read port: 62509
+1692049922563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+1692050002317	geckodriver	INFO	Listening on 127.0.0.1:62601
+1692050005393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileAk1xH3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692050005933	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692050006058	Marionette	INFO	Listening on port 62612
+Read port: 62612
+1692050007394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+1692050044074	geckodriver	INFO	Listening on 127.0.0.1:62692
+1692050047228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilebXueIj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692050047628	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692050047713	Marionette	INFO	Listening on port 62704
+Read port: 62704
+Read port: 62704
+1692050051248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692051915235	geckodriver	INFO	Listening on 127.0.0.1:63780
+1692051918301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileBvSjV9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692051921063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692051921131	Marionette	INFO	Listening on port 63793
+Read port: 63793
+1692051921648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692051958045	geckodriver	INFO	Listening on 127.0.0.1:63867
+1692051961075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileEvmDTF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692051961418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692051961493	Marionette	INFO	Listening on port 63879
+Read port: 63879
+1692051962682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692052060531	geckodriver	INFO	Listening on 127.0.0.1:63989
+1692052063572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileBXNlrm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692052064334	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692052064407	Marionette	INFO	Listening on port 64001
+Read port: 64001
+1692052065013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692052081745	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Lucas\AppData\Local\Temp\rust_mozprofileBXNlrm\bookmarkbackups\bookmarks-2023-08-14.jsonlz4) because it does not exist
+le" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofiledb73cI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692052372554	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692052372693	Marionette	INFO	Listening on port 64263
+Read port: 64263
+1692052373102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: resource:///modules/PanelMultiView.sys.mjs, line 891: TypeError: panelView is undefined
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1689: Error: permitUnload is already running for this tab.
+1692056474795	Marionette	INFO	Stopped listening on port 64263
+Dynamically enable window occlusion 1
+JavaScript error: chrome://browser/content/browser.js, line 7862: uncaught exception: undefined
+rt 64492
+Read port: 64492
+Read port: 64492
+Read port: 64492
+1692052581419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1689: Error: permitUnload is already running for this tab.
+1692056500959	Marionette	INFO	Stopped listening on port 64492
+Dynamically enable window occlusion 1
+JavaScript error: chrome://browser/content/browser.js, line 7862: uncaught exception: undefined
+ettings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692053006466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692053006536	Marionette	INFO	Listening on port 64871
+Read port: 64871
+1692053006877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692053122686	geckodriver	INFO	Listening on 127.0.0.1:65000
+1692053125645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofiletSir9w"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692053128377	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692053128454	Marionette	INFO	Listening on port 65012
+Read port: 65012
+1692053129311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+1692053224696	geckodriver	INFO	Listening on 127.0.0.1:65144
+1692053228016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileSoXzFg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692053237743	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692053237849	Marionette	INFO	Listening on port 65165
+Read port: 65165
+1692053239076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+1692053381064	geckodriver	INFO	Listening on 127.0.0.1:65326
+1692053384128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileS8Gul0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692053387177	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692053387250	Marionette	INFO	Listening on port 65339
+Read port: 65339
+1692053387777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+1692053473287	geckodriver	INFO	Listening on 127.0.0.1:65464
+1692053477120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile0dZ473"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692053486895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692053486979	Marionette	INFO	Listening on port 65478
+Read port: 65478
+Read port: 65478
+1692053489225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692053926093	geckodriver	INFO	Listening on 127.0.0.1:49435
+1692053929465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilexTRc1m"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692053934149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692053934231	Marionette	INFO	Listening on port 49450
+Read port: 49450
+1692053935779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692054229174	geckodriver	INFO	Listening on 127.0.0.1:49658
+1692054232168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileVBsVaP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692054233333	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692054233409	Marionette	INFO	Listening on port 49677
+Read port: 49677
+1692054234294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+1692054480738	geckodriver	INFO	Listening on 127.0.0.1:49921
+1692054483777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilehFZKHP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692054487445	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692054488366	Marionette	INFO	Listening on port 49934
+Read port: 49934
+1692054488786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+[Parent 24216, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1689: Error: permitUnload is already running for this tab.
+1692056475083	Marionette	INFO	Stopped listening on port 49934
+Dynamically enable window occlusion 1
+JavaScript error: chrome://browser/content/browser.js, line 7862: uncaught exception: undefined
+tings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692054661002	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692054661158	Marionette	INFO	Listening on port 50158
+Read port: 50158
+1692054661971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1689: Error: permitUnload is already running for this tab.
+1692056456084	Marionette	INFO	Stopped listening on port 50158
+Dynamically enable window occlusion 1
+JavaScript error: chrome://browser/content/browser.js, line 7862: uncaught exception: undefined
+tings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692054749245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692054749404	Marionette	INFO	Listening on port 50274
+Read port: 50274
+1692054752283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1689: Error: permitUnload is already running for this tab.
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+1692056446878	Marionette	INFO	Stopped listening on port 50274
+Dynamically enable window occlusion 1
+JavaScript error: chrome://browser/content/browser.js, line 7862: uncaught exception: undefined
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:709:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:585:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:709:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:585:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:330:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:330:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1692062222187	geckodriver	INFO	Listening on 127.0.0.1:54329
+1692062225276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile4SgUqr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692062228859	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692062229006	Marionette	INFO	Listening on port 54342
+Read port: 54342
+1692062232081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+[Parent 26632, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+console.error: ({})
+JavaScript error: https://www.lg.com/global/investor-relations-reports line 584 > injectedScript, line 1: ReferenceError: fbq is not defined
+1692063680843	Marionette	INFO	Stopped listening on port 54342
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+e" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilecYzA7j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692062920225	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692062920422	Marionette	INFO	Listening on port 54854
+Read port: 54854
+1692062922613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692063680661	Marionette	INFO	Stopped listening on port 54854
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilexSLvr9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692063609518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692063609665	Marionette	INFO	Listening on port 55366
+Read port: 55366
+1692063611086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+console.error: ({})
+1692063684269	Marionette	INFO	Stopped listening on port 55366
+Dynamically enable window occlusion 1
+1692063711052	geckodriver	INFO	Listening on 127.0.0.1:55486
+1692063714139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile92DbbF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692063714919	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692063715028	Marionette	INFO	Listening on port 55499
+Read port: 55499
+1692063716531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+console.error: ({})
+1692063745286	Marionette	INFO	Stopped listening on port 55499
+Dynamically enable window occlusion 1
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1054 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1093 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4428 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4262 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3362 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3405 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3350 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1054 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1157 getReadyUpdateDir\nresource://gre/modules/UpdateService.sys.mjs 4269 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3362 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3405 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3350 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1054 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1093 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 771 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3413 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3350 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1692063745469	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+1692063766831	geckodriver	INFO	Listening on 127.0.0.1:55572
+1692063770170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilexX2glV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692063770569	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692063770695	Marionette	INFO	Listening on port 55584
+Read port: 55584
+1692063771950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+console.error: ({})
+1692063804885	Marionette	INFO	Stopped listening on port 55584
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+1692064033111	geckodriver	INFO	Listening on 127.0.0.1:55767
+1692064036250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileTCmyqp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064036908	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064037110	Marionette	INFO	Listening on port 55778
+Read port: 55778
+1692064037576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+[Parent 6112, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1692064048895	Marionette	INFO	Stopped listening on port 55778
+Dynamically enable window occlusion 1
+1692064103878	geckodriver	INFO	Listening on 127.0.0.1:55865
+1692064106968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilefHHZRs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064107349	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064107485	Marionette	INFO	Listening on port 55876
+Read port: 55876
+1692064109407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064119703	Marionette	INFO	Stopped listening on port 55876
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1692064191148	geckodriver	INFO	Listening on 127.0.0.1:55963
+1692064194241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile4Rb1U3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064194618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064194735	Marionette	INFO	Listening on port 55974
+Read port: 55974
+1692064196065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064205613	Marionette	INFO	Stopped listening on port 55974
+Dynamically enable window occlusion 1
+1692064208418	geckodriver	INFO	Listening on 127.0.0.1:56026
+1692064211475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilemLZ88H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064211855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064211983	Marionette	INFO	Listening on port 56037
+Read port: 56037
+1692064213357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+console.error: ({})
+1692064338906	Marionette	INFO	Stopped listening on port 56037
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1692064370970	geckodriver	INFO	Listening on 127.0.0.1:56148
+1692064374032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilev58UDR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064374451	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064374586	Marionette	INFO	Listening on port 56159
+Read port: 
+1692064374625	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 56159
+1692064375710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064386359	Marionette	INFO	Stopped listening on port 56159
+Dynamically enable window occlusion 1
+1692064388670	geckodriver	INFO	Listening on 127.0.0.1:56206
+1692064391723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileq4isVG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064392099	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064392227	Marionette	INFO	Listening on port 56218
+Read port: 56218
+1692064393952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+console.error: ({})
+1692064488367	Marionette	INFO	Stopped listening on port 56218
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1692064530907	geckodriver	INFO	Listening on 127.0.0.1:56320
+1692064534063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile5GN6OL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064534454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064534576	Marionette	INFO	Listening on port 56332
+Read port: 56332
+1692064536007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064545597	Marionette	INFO	Stopped listening on port 56332
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1692064548329	geckodriver	INFO	Listening on 127.0.0.1:56384
+1692064551366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilewbXGLM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064551779	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064551928	Marionette	INFO	Listening on port 56396
+Read port: 56396
+1692064552561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692064558291	Marionette	INFO	Stopped listening on port 56396
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/hijack-blocklists list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.sys.mjs, line 113: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+1692064598598	geckodriver	INFO	Listening on 127.0.0.1:56429
+1692064601643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilehWkFPB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064602147	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064602303	Marionette	INFO	Listening on port 56441
+Read port: 56441
+1692064603151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064614053	Marionette	INFO	Stopped listening on port 56441
+Dynamically enable window occlusion 1
+1692064616407	geckodriver	INFO	Listening on 127.0.0.1:56492
+1692064619485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile7SNbhj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064620028	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064620235	Marionette	INFO	Listening on port 56504
+Read port: 56504
+1692064622105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692064657678	Marionette	INFO	Stopped listening on port 56504
+Dynamically enable window occlusion 1
+1692064661959	geckodriver	INFO	Listening on 127.0.0.1:56551
+1692064665039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileBG6ux8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064665462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064665603	Marionette	INFO	Listening on port 56563
+Read port: 56563
+1692064666946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064677967	Marionette	INFO	Stopped listening on port 56563
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1692064681329	geckodriver	INFO	Listening on 127.0.0.1:56612
+1692064684425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilefv1CML"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064684895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064685058	Marionette	INFO	Listening on port 56624
+Read port: 56624
+1692064686871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064890081	Marionette	INFO	Stopped listening on port 56624
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileTnRoGd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064751913	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064752047	Marionette	INFO	Listening on port 56719
+Read port: 56719
+1692064753379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064764081	Marionette	INFO	Stopped listening on port 56719
+Dynamically enable window occlusion 1
+1692064766337	geckodriver	INFO	Listening on 127.0.0.1:56768
+1692064769453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile1IuW7e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064769801	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064769921	Marionette	INFO	Listening on port 56779
+Read port: 56779
+1692064772054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064779976	Marionette	INFO	Stopped listening on port 56779
+Dynamically enable window occlusion 1
+1692064810024	geckodriver	INFO	Listening on 127.0.0.1:56832
+1692064813085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofiledEdd6V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064813466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064813608	Marionette	INFO	Listening on port 56844
+Read port: 56844
+1692064814141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064823978	Marionette	INFO	Stopped listening on port 56844
+Dynamically enable window occlusion 1
+1692064825909	geckodriver	INFO	Listening on 127.0.0.1:56891
+1692064828951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileobIbRN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064829339	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064829479	Marionette	INFO	Listening on port 56902
+Read port: 56902
+1692064830895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1692064893845	Marionette	INFO	Stopped listening on port 56902
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1692064913541	geckodriver	INFO	Listening on 127.0.0.1:56994
+1692064916609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileUYs1Ga"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064917040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064917281	Marionette	INFO	Listening on port 57005
+Read port: 57005
+1692064918702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692064928466	Marionette	INFO	Stopped listening on port 57005
+Dynamically enable window occlusion 1
+1692064931161	geckodriver	INFO	Listening on 127.0.0.1:57059
+1692064934200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilef4OHvb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692064934542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692064934674	Marionette	INFO	Listening on port 57070
+Read port: 57070
+1692064936031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1692065131176	Marionette	INFO	Stopped listening on port 57070
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1692065147096	geckodriver	INFO	Listening on 127.0.0.1:57239
+1692065150170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilejEs7Iz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692065150581	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692065150719	Marionette	INFO	Listening on port 57252
+Read port: 57252
+1692065150987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692065162284	Marionette	INFO	Stopped listening on port 57252
+Dynamically enable window occlusion 1
+1692065164724	geckodriver	INFO	Listening on 127.0.0.1:57304
+1692065167760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilevLi8pD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692065168145	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692065168283	Marionette	INFO	Listening on port 57316
+Read port: 57316
+1692065170122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1692065230193	Marionette	INFO	Stopped listening on port 57316
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1692067739019	geckodriver	INFO	Listening on 127.0.0.1:58730
+1692067742131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofileZDjULc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692067745846	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692067746776	Marionette	INFO	Listening on port 58743
+Read port: 58743
+1692067747411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692067768621	Marionette	INFO	Stopped listening on port 58743
+Dynamically enable window occlusion 1
+1692067840954	geckodriver	INFO	Listening on 127.0.0.1:58845
+1692067844021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile9Bh7AX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692067846289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692067846453	Marionette	INFO	Listening on port 58860
+Read port: 58860
+1692067848406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692067858347	Marionette	INFO	Stopped listening on port 58860
+Dynamically enable window occlusion 1
+1692068649963	geckodriver	INFO	Listening on 127.0.0.1:59403
+1692068653028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofile6HLFfM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692068653493	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692068653635	Marionette	INFO	Listening on port 59415
+Read port: 59415
+1692068654238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692068669742	Marionette	INFO	Stopped listening on port 59415
+Dynamically enable window occlusion 1
+1692068769975	geckodriver	INFO	Listening on 127.0.0.1:59518
+1692068773034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Lucas\\AppData\\Local\\Temp\\rust_mozprofilel9dgUB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692068776235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692068776372	Marionette	INFO	Listening on port 59532
+Read port: 59532
+1692068777500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1692068787704	Marionette	INFO	Stopped listening on port 59532
+Dynamically enable window occlusion 1
